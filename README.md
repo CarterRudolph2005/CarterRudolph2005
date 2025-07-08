@@ -5,6 +5,9 @@
 - <b>Web Development</b>
   - [CollegeCooking Website Prototype](https://github.com/joshmadakor1/Algorithms-Practice)
 
+- <b>AI</b>
+  - [AI Chat Bot in Python](https://github.com/CarterRudolph2005/Python_UVAI)
+
 <h2> 🤳 Connect with me:</h2>
 
 
