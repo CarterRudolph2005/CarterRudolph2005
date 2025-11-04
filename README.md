@@ -1,9 +1,9 @@
 <h1>Hi, I'm Carter!</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<!--
+
 - <b>Web Development</b>
-  - [CollegeCooking Website Prototype](https://github.com/CarterRudolph2005/CollegeCooking)-->
+  - [CollegeCooking Website Prototype](https://github.com/CarterRudolph2005/CollegeCooking)
 
 - <b>AI</b>
   - [AI Chatbot in Python](https://github.com/CarterRudolph2005/Python_UVAI)
