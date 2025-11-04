@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Web Development</b>
-  - [Movie Discovery Web Application]()
+  - [Movie Discovery Web Application](https://github.com/CarterRudolph2005/Movie-Discovery-Web-Application/tree/main)
   - [CollegeCooking Website Prototype](https://github.com/CarterRudolph2005/CollegeCooking)
 
 - <b>AI</b>
