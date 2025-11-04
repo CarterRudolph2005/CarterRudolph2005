@@ -16,7 +16,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="carter-rudolph | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=228BE6" />][linkedin]
+[<img align="left" alt="carter-rudolph | LinkedIn" width="52px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=228BE6" />][linkedin]
 
 
 
