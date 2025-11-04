@@ -9,9 +9,9 @@
 - <b>AI</b>
   - [AI Chatbot in Python](https://github.com/CarterRudolph2005/Python_UVAI)
 
-- <b>Programming Fundamentals</b>
+<!-- - <b>Programming Fundamentals</b>
   - [Bookstore POS]()
-  - [Operations Memu in Assembly]()
+  - [Operations Memu in Assembly]() -->
 
 <h2> 🤳 Connect with me:</h2>
 
