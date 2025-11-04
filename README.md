@@ -6,7 +6,7 @@
   - [Movie Discovery Web Application](https://github.com/CarterRudolph2005/Movie-Discovery-Web-Application/tree/main)
   - [CollegeCooking Website Prototype](https://github.com/CarterRudolph2005/CollegeCooking)
 
-- <b>AI</b>
+- <b>AI/ML</b>
   - [AI Chatbot in Python](https://github.com/CarterRudolph2005/Python_UVAI)
 
 <!-- - <b>Programming Fundamentals</b>
