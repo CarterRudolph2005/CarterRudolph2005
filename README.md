@@ -15,7 +15,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/carter-rudolph
+[linkedin]: https://www.linkedin.com/in/carter-rudolph
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
