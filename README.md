@@ -10,7 +10,7 @@
   - [AI Chatbot in Python](https://github.com/CarterRudolph2005/Python_UVAI)
 
  - <b>Programming Fundamentals</b>
-  - [Bookstore POS]()
+    - [Bookstore POS](https://github.com/CarterRudolph2005/Bookstore-POS)
   <!-- - [Operations Memu in Assembly]() -->
 
 <h2> 🤳 Connect with me:</h2>
