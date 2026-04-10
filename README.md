@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Projects I Have Lead</b>
+  - [SmartGallery](https://github.com/FSU-CloudClub/CloudClub-Spring26-ImageManagementWebApp)
 - <b>Web Development</b>
   - [Movie Discovery Web Application](https://github.com/CarterRudolph2005/Movie-Discovery-Web-Application/tree/main)
   - [CollegeCooking Website Prototype](https://github.com/CarterRudolph2005/CollegeCooking)
