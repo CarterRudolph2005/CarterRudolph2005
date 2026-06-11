@@ -32,7 +32,7 @@
 
 - 🎓 Computer Science and Applied Math dual degree at FSU <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqNzV4NWpmNmFsZm8zY2I2bTE2aWJyOTN0NGx6cmE4ZmtsZGRjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5WJloczLP4idzMkW8O/giphy.gif" width="20">
 - 👨‍⚖️ I am the president of our ACM chapter on campus
-- 🧑‍💻 I have lead multiple technical projects (see below)
+- 🧑‍💻 I have lead multiple technical projects
 - 💻 I often code with: **.js**, **.cpp**, **.py**
 - 🎷 Fun fact: I play jazz saxophone
 - ⌨️ Tech I work with:
