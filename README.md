@@ -46,7 +46,7 @@ Official ACM chapter website rebuilt by a 15-member open-source team. Developed 
 
 ---
 
-# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ1amNsa2ZvbWlvZmhkbjFhNHJxcDYzdnJpemZpaTd4OWFxNmlnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wh8AaMZ2jtRseDQ3C/giphy.gif" width="60" /> About Me:
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ1amNsa2ZvbWlvZmhkbjFhNHJxcDYzdnJpemZpaTd4OWFxNmlnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wh8AaMZ2jtRseDQ3C/giphy.gif" width="60" /> More About Me:
 
 - 🎓 Computer Science and Applied Math dual degree at FSU <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqNzV4NWpmNmFsZm8zY2I2bTE2aWJyOTN0NGx6cmE4ZmtsZGRjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5WJloczLP4idzMkW8O/giphy.gif" width="20">
 - 👨‍⚖️ I am the president of our ACM chapter on campus
