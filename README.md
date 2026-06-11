@@ -13,22 +13,31 @@
 </p>
 
 --- 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYxcmdubGhobHNiODNvb3lnaDdoaDB1cnpxcHdzdzVpZWFlNGlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="60" /> My Projects:
-- <b>Projects I Have Lead</b>
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYxcmdubGhobHNiODNvb3lnaDdoaDB1cnpxcHdzdzVpZWFlNGlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="60" /> My Projects:
+<!--#### Projects I Have Lead
   - [SmartGallery](https://github.com/FSU-CloudClub/CloudClub-Spring26-ImageManagementWebApp)
-- <b>Web Development</b>
-  - [Movie Discovery Web Application](https://github.com/CarterRudolph2005/Movie-Discovery-Web-Application/tree/main)
-  - [CollegeCooking Website Prototype](https://github.com/CarterRudolph2005/CollegeCooking)
 
-- <b>AI/ML</b>
+#### Fundamentals
   - [AI Chatbot in Python](https://github.com/CarterRudolph2005/Python_UVAI)
+  - [Bookstore POS](https://github.com/CarterRudolph2005/Bookstore-POS)
+  - [Movie Discovery Web Application](https://github.com/CarterRudolph2005/Movie-Discovery-Web-Application/tree/main)
+  - [CollegeCooking Website Prototype](https://github.com/CarterRudolph2005/CollegeCooking)-->
+## 🚀 Led
+### **[SmartGallery](https://github.com/FSU-CloudClub/CloudClub-Spring26-ImageManagementWebApp)** — Add summary here
 
- - <b>Programming Fundamentals</b>
-    - [Bookstore POS](https://github.com/CarterRudolph2005/Bookstore-POS) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Rekognition](https://img.shields.io/badge/Rekognition-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Cognito](https://img.shields.io/badge/Cognito-FF9900?style=flat-square&logo=amazonaws&logoColor=white) 
+
+## 📚 Fundamentals
+| Project | Summary | Tech |
+|---------|---------|------|
+| [AI Chatbot](https://github.com/CarterRudolph2005/Python_UVAI) | Add summary | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Simulation](https://github.com/CarterRudolph2005/Bookstore-POS) | Add summary | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| [Movie Discovery App](https://github.com/CarterRudolph2005/Movie-Discovery-Web-Application/tree/main) | Add summary | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| [CollegeCooking](https://github.com/CarterRudolph2005/CollegeCooking) | Add summary | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 ---
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ1amNsa2ZvbWlvZmhkbjFhNHJxcDYzdnJpemZpaTd4OWFxNmlnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wh8AaMZ2jtRseDQ3C/giphy.gif" width="60" /> About Me:
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ1amNsa2ZvbWlvZmhkbjFhNHJxcDYzdnJpemZpaTd4OWFxNmlnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wh8AaMZ2jtRseDQ3C/giphy.gif" width="60" /> About Me:
 
 - 🎓 Computer Science and Applied Math dual degree at FSU <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqNzV4NWpmNmFsZm8zY2I2bTE2aWJyOTN0NGx6cmE4ZmtsZGRjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5WJloczLP4idzMkW8O/giphy.gif" width="20">
 - 👨‍⚖️ I am the president of our ACM chapter on campus
@@ -42,17 +51,3 @@
             <img src="https://skillicons.dev/icons?i=aws,react,dotnet,docker,express,terraform" />
       </a>
 </p>
-
-
-
-<!-- <b>Projects I Have Lead</b>
-  - [SmartGallery](https://github.com/FSU-CloudClub/CloudClub-Spring26-ImageManagementWebApp)
-- <b>Web Development</b>
-  - [Movie Discovery Web Application](https://github.com/CarterRudolph2005/Movie-Discovery-Web-Application/tree/main)
-  - [CollegeCooking Website Prototype](https://github.com/CarterRudolph2005/CollegeCooking)
-
-- <b>AI/ML</b>
-  - [AI Chatbot in Python](https://github.com/CarterRudolph2005/Python_UVAI)
-
- - <b>Programming Fundamentals</b>
-    - [Bookstore POS](https://github.com/CarterRudolph2005/Bookstore-POS) -->
