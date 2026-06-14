@@ -16,7 +16,7 @@
 # <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYxcmdubGhobHNiODNvb3lnaDdoaDB1cnpxcHdzdzVpZWFlNGlkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="60" /> My Projects:
 ## 🚀 Led
 ### **OrgFlow** *(In Development)* 
-A mobile platform for student organizations to manage roles with custom permissions, shared calendars, file archives, role-specific push notifications, and an AI chat assistant powered by MCP servers and a RAG pipeline to query org files and create events or tasks — all running in a containerized AWS environment.
+A mobile platform for student organizations to manage roles with custom permissions, shared calendars, file archives, role-specific push notifications, and an AI chat assistant powered by MCP servers and a RAG pipeline to query org files and create events or tasks running in a containerized AWS environment.
 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS ECS](https://img.shields.io/badge/AWS_ECS_Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
@@ -46,13 +46,13 @@ Official ACM chapter website rebuilt by a 15-member open-source team. Developed 
 
 ---
 
-# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ1amNsa2ZvbWlvZmhkbjFhNHJxcDYzdnJpemZpaTd4OWFxNmlnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2wh8AaMZ2jtRseDQ3C/giphy.gif" width="60" /> More About Me:
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5qM2lhazlhdzFicGVmY2cwamNybDgybnFoZGRqcTMzajUwbGk1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jmh19T6n2LrWwfaUbF/giphy.gif" width="60" /> More About Me:
 
 - 🎓 Computer Science and Applied Math dual degree at FSU <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqNzV4NWpmNmFsZm8zY2I2bTE2aWJyOTN0NGx6cmE4ZmtsZGRjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5WJloczLP4idzMkW8O/giphy.gif" width="20">
 - 👨‍⚖️ I am the president of our ACM chapter on campus
 - 🧑‍💻 I have lead multiple technical projects
 - 💻 I often code with: **.js**, **.cpp**, **.py**
-- 🎷 Fun fact: I play jazz saxophone
+- ⚡️ Fun fact: I play jazz saxophone
 - ⌨️ Tech I work with:
 
 <p align="center">
